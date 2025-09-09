@@ -1,0 +1,5 @@
+10.times do 
+  print "Спартак - чемпион!"
+  print "ЦСКА - тоже!"
+  print "--"
+end
